@@ -1,0 +1,23 @@
+[
+        {
+
+          "logo": "https://i.postimg.cc/3xk5yhrz/accounts-1.png",
+          "name": "Account & Finance",
+          "jobs_available": 10
+        },
+        {
+          "logo": "https://i.postimg.cc/zvySCxLD/business-1.png",
+          "name": "Creative Design",
+          "jobs_available": 20
+        },
+        {
+          "logo": "https://i.postimg.cc/8cfMJs3j/social-media-1.png",
+          "name": "Marketing & Sales",
+          "jobs_available": 5
+        },
+        {
+          "logo": "https://i.postimg.cc/05hHtS9X/chip-1.png",
+          "name": "Engineering Jobs",
+          "jobs_available": 15
+        }
+]

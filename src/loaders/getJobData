@@ -1,0 +1,5 @@
+export const getJobData = async()=>{
+    const jobData = await fetch('/products.json')
+    const data = await jobData.json();
+    return data;
+}
